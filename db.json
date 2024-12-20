@@ -1,26 +1,33 @@
 {
     "posts": [
-      {
-        "id": 1,
-        "title": "Cách trồng cây dễ chăm sóc",
-        "body": "Những mẹo nhỏ giúp trồng cây xanh tốt trong nhà."
-      },
-      {
-        "id": 2,
-        "title": "Bí quyết nấu cháo gà ngon",
-        "body": "Các bước đơn giản để nấu cháo gà thơm ngon cho gia đình."
-      }
+        {
+            "id": 1,
+            "title": "Cách nấu phở bò truyền thống",
+            "body": "Hướng dẫn chi tiết cách nấu phở bò truyền thống."
+        },
+        {
+            "id": 2,
+            "title": "Du lịch Đà Lạt",
+            "body": "Kinh nghiệm du lịch Đà Lạt tự túc: Những địa điểm nên đến và món ăn không thể bỏ qua.",
+            "base64Image": ""
+        },
+        {
+            "id": 3,
+            "title": "Hướng dẫn sử dụng Flutter",
+            "body": "Giới thiệu và hướng dẫn cơ bản về cách sử dụng Flutter để phát triển ứng dụng di động.",
+            "base64Image": ""
+        }
     ],
     "users": [
-      {
-        "username": "Tinh",
-        "password": "ldt123",
-        "fullname": "LDT"
-      },
-      {
-        "username": "andy",
-        "password": "andy123",
-        "fullname": "Andy John"
-      }
+        {
+            "username": "tung",
+            "password": "xntyuiop",
+            "fullname": "Le Nhat Tung"
+        },
+        {
+            "username": "peter",
+            "password": "xntyuiop",
+            "fullname": "Peter"
+        }
     ]
-  }
+}
